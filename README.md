@@ -5,24 +5,24 @@
 </div>
 <div align="center">
   <h3>Languages</h3>
-  <img src="https://svgl-badge.vercel.app/api/Language/C?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/C?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/C%2B%2B?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/C%23?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/Python?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/Lua?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/TypeScript?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/JavaScript?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/HTML5?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Language/CSS?theme=gray"/>
 </div>
 <div align="center">
   <h3>Tools</h3>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio?theme=dark"/>
   <img src="https://svgl-badge.vercel.app/api/Software/Visual%20Studio%20Code?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Design/Figma?theme=dark"/>
-  <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=dark"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/Git?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Software/Github?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Design/Figma?theme=gray"/>
+  <img src="https://svgl-badge.vercel.app/api/Library/Node.js?theme=gray"/>
 </div>
 <div align="center">
   <h3>Statistics</h3>
@@ -35,6 +35,6 @@
 </div>
 <div align="center">
   <h3>Contact</h3>
-  <a href="https://discord.com/users/924133673538830356"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
+  <a href="https://discord.com/users/888380737693302784"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
 </div>
 <img height=15 align="right" src="https://komarev.com/ghpvc/?username=Riz-ve&abbreviated=true" />
