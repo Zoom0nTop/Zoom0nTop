@@ -1,6 +1,6 @@
 <h1 align="center">Zoom</h1>
 <div align="center">
-  <h5>Self Taught Programmer</h5>
+  <h5>Programmer</h5>
   <h6>Driven by curiosity, I’m always discovering new things and growing along the way.</h6>
 </div>
 <div align="center">
