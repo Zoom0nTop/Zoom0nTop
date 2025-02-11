@@ -35,6 +35,6 @@
 </div>
 <div align="center">
   <h3>Contact</h3>
-  <a href="https://discord.com/users/888380737693302784"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=dark"></a>
+  <a href="https://discord.com/users/888380737693302784"><img src="https://svgl-badge.vercel.app/api/Software/Discord?theme=gray"></a>
 </div>
-<img height=15 align="right" src="https://komarev.com/ghpvc/?username=Riz-ve&abbreviated=true" />
+<img height=15 align="right" src="https://komarev.com/ghpvc/?username=Zoom0nTop&abbreviated=true" />
