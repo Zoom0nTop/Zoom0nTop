@@ -27,7 +27,7 @@
 <div align="center">
   <h3>Statistics</h3>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zoom0nTop&theme=github_dark&show_icons=true" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Zoom0nTop)https://" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoom0nTop&layout=compact" />
